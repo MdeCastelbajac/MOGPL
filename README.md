@@ -1,3 +1,3 @@
 # MOGPL
-Algorithmic comparison on directed multigraph weighted with time
+Algorithmic comparison on directed multigraph weighted with time  
 *(see notebook)*
